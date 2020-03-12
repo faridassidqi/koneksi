@@ -1,2 +1,2 @@
 # koneksi
-menghubungkan ke koneksi menggunakan php native
+menghubungkan koneksi ke database menggunakan php native.
